@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name":"Augusto Zangrandi",
+    "occupation":"Software Developer",
+    "description":"I build tools that help great companies take their products to the next level",
+    "image":"profilepic.png",
+    "bio":"Hi. I'm a full-stack software developer with 7+ years experience working with Ruby on Rails, and 3 years with ReactJS. In this time I have helped several companies to considerably improve their products and MVPs to come to market.",
+    "email": "contact@zangrandi.me",
+    "phone": "",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Rio de Janeiro",
+      "state":"Rio de Janeiro - Brazil",
+      "zip": "24800-770"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"upwork",
+        "url":"/upwork",
+        "className":"fa fa-globe"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/augustozangrandi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/zangrandi",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby/Rails",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ShowMojo",
+        "category":"",
+        "image":"showmojo 2.png",
+        "url":"https://www.showmojo.com"
+      },
+      {
+        "title":"Fieldwork",
+        "category":"",
+        "image":"fieldwork.png",
+        "url":"https://www.fieldworkhq.com"
+      },
+      {
+        "title":"Magiclinks",
+        "category":"",
+        "image":"magiclinks.png",
+        "url":"https://www.magiclinks.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Augusto is a top notch Ruby developer. He helped build a variety of features on our platform. He is a self-starter and doesn't need much direction to be creative and come up with a solution to a problem. He also comes up with his own ideas on how to improve product or technology, which is a huge plus. \n\n Overall, he is highly recommended.",
+        "user":"Victor Murygin - Magiclinks"
+      },
+      {
+        "text":"Would definitely work with Augusto again.",
+        "user":"Peter Schuh - ShowMojo"
+      }
+    ]
+  }
+}
